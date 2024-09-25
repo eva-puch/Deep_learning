@@ -4,7 +4,7 @@ This repository contains one report completed as part of the **Deep Learning** c
 
 ## 📋 Overview
 
-# Report 1: CIFAR-10 Dataset Analysis
+### Report 1: CIFAR-10 Dataset Analysis
 In this report we work with the CIFAR-10 dataset (Krizhevsky 2009). The objective is to adapt the dataset to the PyTorch format, allowing for effective training and evaluation of models. Key tasks include:
 - **Data Preparation**: Downloading the dataset, converting it to NumPy arrays, and grayscale images.
 - **Dataset Splitting**: Splitting into training and validation sets, and converting to PyTorch tensors.
